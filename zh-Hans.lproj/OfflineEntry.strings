@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "半keyの入力:"; ObjectID = "4DX-rs-idq"; */
+"4DX-rs-idq.text" = "半键进入:";
+
+/* Class = "UIButton"; normalTitle = "オンラインへ"; ObjectID = "BYM-rE-PNn"; */
+"BYM-rE-PNn.normalTitle" = "移动到在线模式;
+
+/* Class = "UIButton"; normalTitle = "オフライン入"; ObjectID = "wJB-8T-1xU"; */
+"wJB-8T-1xU.normalTitle" = "进入离线模式";

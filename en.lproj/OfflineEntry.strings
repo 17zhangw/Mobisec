@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "半keyの入力:"; ObjectID = "4DX-rs-idq"; */
+"4DX-rs-idq.text" = "Half Key Entry:";
+
+/* Class = "UIButton"; normalTitle = "オンラインへ"; ObjectID = "BYM-rE-PNn"; */
+"BYM-rE-PNn.normalTitle" = "Go Online";
+
+/* Class = "UIButton"; normalTitle = "オフライン入"; ObjectID = "wJB-8T-1xU"; */
+"wJB-8T-1xU.normalTitle" = "Enter Offline";

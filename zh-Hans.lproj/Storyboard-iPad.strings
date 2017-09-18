@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "ブークマーク"; ObjectID = "2II-I4-ZCN"; */
+"2II-I4-ZCN.normalTitle" = "书签";
+
+/* Class = "UIButton"; normalTitle = "消す"; ObjectID = "3sd-eW-KQn"; */
+"3sd-eW-KQn.normalTitle" = "删除";
+
+/* Class = "UILabel"; text = "ファイル名："; ObjectID = "BT0-Ta-DON"; */
+"BT0-Ta-DON.text" = "文件名:";
+
+/* Class = "UILabel"; text = "IPアドレスの入力:"; ObjectID = "OvF-O4-R3q"; */
+"OvF-O4-R3q.text" = "IP地址:";
+
+/* Class = "UILabel"; text = "パスワード:"; ObjectID = "SgP-7H-Ymr"; */
+"SgP-7H-Ymr.text" = "密码:";
+
+/* Class = "UIButton"; normalTitle = "詳細情報"; ObjectID = "Ubt-ny-hoQ"; */
+"Ubt-ny-hoQ.normalTitle" = "信息";
+
+/* Class = "UILabel"; text = "ファイル説明："; ObjectID = "UgW-Zl-IZP"; */
+"UgW-Zl-IZP.text" = "文件说明:";
+
+/* Class = "UINavigationItem"; title = "ルート"; ObjectID = "Zfi-Tn-Hcx"; */
+"Zfi-Tn-Hcx.title" = "顶级目录";
+
+/* Class = "UILabel"; text = "最後の変更日付:"; ObjectID = "cZc-zu-MKt"; */
+"cZc-zu-MKt.text" = "修改日期:";
+
+/* Class = "UILabel"; text = "ファイル作成日："; ObjectID = "fCO-wn-R0M"; */
+"fCO-wn-R0M.text" = "创建日期:";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "fVo-x4-V8b"; */
+"fVo-x4-V8b.normalTitle" = "认证";
+
+/* Class = "UITextField"; placeholder = "Ex: https://rep.mobisec.biz/dms"; ObjectID = "jh8-kc-gqB"; */
+"jh8-kc-gqB.placeholder" = "Ex: https://rep.mobisec.biz/dms";
+
+/* Class = "UILabel"; text = "ページ数："; ObjectID = "m40-Vc-8ea"; */
+"m40-Vc-8ea.text" = "页数:";
+
+/* Class = "UILabel"; text = "会社トーケン:"; ObjectID = "mqm-vE-T3a"; */
+"mqm-vE-T3a.text" = "公司令牌:";
+
+/* Class = "UILabel"; text = "ユーザー名:"; ObjectID = "qNw-a5-d34"; */
+"qNw-a5-d34.text" = "用户名:";
+
+/* Class = "UILabel"; text = "ファイル拡張子："; ObjectID = "rcW-oG-NHw"; */
+"rcW-oG-NHw.text" = "文件扩展名:";
+
+/* Class = "UIButton"; normalTitle = "再登録"; ObjectID = "tbu-MO-TGb"; */
+"tbu-MO-TGb.normalTitle" = "重新登录";
+
+/* Class = "UILabel"; text = "ファイル大きさ："; ObjectID = "yYJ-DQ-fRg"; */
+"yYJ-DQ-fRg.text" = "文件大小:";

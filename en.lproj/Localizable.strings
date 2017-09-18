@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  Mobisec
+
+  Created by williamzhang on 7/21/15.
+  Copyright (c) 2015 williamzhang. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ Mobisec
+ 
+ Created by williamzhang on 7/21/15.
+ Copyright (c) 2015 williamzhang. All rights reserved.
+ */
+
+"FOLDER" = "Folder";
+"FILE" = "File";
+"NEXT" = "Next";
+"PREVIOUS" = "Previous";
+
+"TO" = " - ";
+"CANCEL" = "Cancel";
+"ENTER" = "Enter";
+"PAGE_SELECTION" = "Page Selection";
+
+"ROOT" = "Root";
+"MOVE_ONLINE" = "Move Online";
+
+"UPLOADING" = "Uploading...";
+"INCOMPLETE_UPLOAD" = "Incomplete upload available. Should resume?";
+"DELETE" = "Delete";
+"UPLOAD" = "Upload";
+
+"BAD_LOCATION" = "Bad Location";
+"BAD_LOC_REASON" = "Select a folder other than root.";
+"CLOSE" = "Close";
+
+"NAME_SET" = "Name";
+"ENTER_NAME" = "Enter a name for file";
+
+"PROCESSING" = "Processing...";
+"UPLOAD_FAIL" = "Upload failed";
+"UPLOAD_SUCCEED" = "Upload succeeded";
+"NOT" = "No";
+"UPLOAD_WARNING" = "Do not close the application or disconnect from internet.";
+
+"RELOAD" = "Reload";
+
+"UPLOAD_CUT" = "Upload interrupted";
+"UPLOAD_CUT_REASON" = "Upload was interrupted. Please refresh after authentication.";
+
+"YES" = "Yes";
+"NO" = "No";
+
+"UNFINISHED_UPLOAD" = "Previous upload was not finished. Do you want to finish it now? You can press (+) to finish it manually";
+
+"BOOKMARK" = "Bookmark";
+
+"RETRIEVING_LIST" = "Fetching list...";
+
+"REFRESH" = "Refresh";
+"RETRIEVE_FAIL" = "Refreshing failed";
+
+"DOWNLOADING" = "Downloading...";
+"DELETE_BOOKMARK" = "Delete bookmark";
+
+"INFO" = "Information";
+
+"LOGIN" = "Login";
+"LOGINING" = "Logining...";
+"REGISTER" = "Register";
+"REGISTERING" = "Registering";
+"FAIL" = "Failed";
+"FAIL_REASON" = "The information provided is incorrect.";
+"NO_DATABASE" = "Database does not exist";
+"INCORRECT" = "Incorrect";
+"INCORRECT_KEY" = "The key you entered is incorrect";
+
+"LOCK" = "Locked";
+"LOCK_REASON" = "The account is locked.";
+"UPLOAD_FAILED" = "While uploading, an error was encountering. The application will now refresh itself. Press (+) to try again after the refresh.";
+"ERROR_HAPPENED" = "An error happened";
+
+"NUM_BOOKS" = "Items";
+"NUM_PAGES" = "Pages";
+
+"UPDATE" = "Update";
+"DOWNLOAD" = "Download";
+"FAVORITE" = "Bookmark";
+"UNFAVORITE" = "Remove from bookmarks";
+
+"LOADING" = "Reading...";
+"NO_ACCESS" = "No Access";
+"NO_ACCESS_REASON" = "Could not access pictures. Please allow access in privacy settings.";
+
+"ERROR" = "Error";
+"CHOOSE_ALBUM" = "Select an album";
+"CHOOSE_PICTURE" = "Pick a photo";
+
+"LIMIT" = " max number of pictures";
+"LIMIT_PICK" = " limit has been reached.";
+"AT_TIME" = "At this moment";

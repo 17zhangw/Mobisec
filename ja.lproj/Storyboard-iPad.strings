@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "ブークマーク"; ObjectID = "2II-I4-ZCN"; */
+"2II-I4-ZCN.normalTitle" = "ブークマーク";
+
+/* Class = "UIButton"; normalTitle = "消す"; ObjectID = "3sd-eW-KQn"; */
+"3sd-eW-KQn.normalTitle" = "消す";
+
+/* Class = "UILabel"; text = "ファイル名："; ObjectID = "BT0-Ta-DON"; */
+"BT0-Ta-DON.text" = "ファイル名：";
+
+/* Class = "UILabel"; text = "IPアドレスの入力:"; ObjectID = "OvF-O4-R3q"; */
+"OvF-O4-R3q.text" = "IPアドレスの入力:";
+
+/* Class = "UILabel"; text = "パスワード:"; ObjectID = "SgP-7H-Ymr"; */
+"SgP-7H-Ymr.text" = "パスワード:";
+
+/* Class = "UIButton"; normalTitle = "詳細情報"; ObjectID = "Ubt-ny-hoQ"; */
+"Ubt-ny-hoQ.normalTitle" = "詳細情報";
+
+/* Class = "UILabel"; text = "ファイル説明："; ObjectID = "UgW-Zl-IZP"; */
+"UgW-Zl-IZP.text" = "ファイル説明：";
+
+/* Class = "UINavigationItem"; title = "ルート"; ObjectID = "Zfi-Tn-Hcx"; */
+"Zfi-Tn-Hcx.title" = "ルート";
+
+/* Class = "UILabel"; text = "最後の変更日付:"; ObjectID = "cZc-zu-MKt"; */
+"cZc-zu-MKt.text" = "最後の変更日付:";
+
+/* Class = "UILabel"; text = "ファイル作成日："; ObjectID = "fCO-wn-R0M"; */
+"fCO-wn-R0M.text" = "ファイル作成日：";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "fVo-x4-V8b"; */
+"fVo-x4-V8b.normalTitle" = "ログイン";
+
+/* Class = "UITextField"; placeholder = "Ex: https://rep.mobisec.biz/dms"; ObjectID = "jh8-kc-gqB"; */
+"jh8-kc-gqB.placeholder" = "Ex: https://rep.mobisec.biz/dms";
+
+/* Class = "UILabel"; text = "ページ数："; ObjectID = "m40-Vc-8ea"; */
+"m40-Vc-8ea.text" = "ページ数：";
+
+/* Class = "UILabel"; text = "会社トーケン:"; ObjectID = "mqm-vE-T3a"; */
+"mqm-vE-T3a.text" = "会社トーケン:";
+
+/* Class = "UILabel"; text = "ユーザー名:"; ObjectID = "qNw-a5-d34"; */
+"qNw-a5-d34.text" = "ユーザー名:";
+
+/* Class = "UILabel"; text = "ファイル拡張子："; ObjectID = "rcW-oG-NHw"; */
+"rcW-oG-NHw.text" = "ファイル拡張子：";
+
+/* Class = "UIButton"; normalTitle = "再登録"; ObjectID = "tbu-MO-TGb"; */
+"tbu-MO-TGb.normalTitle" = "再登録";
+
+/* Class = "UILabel"; text = "ファイル大きさ："; ObjectID = "yYJ-DQ-fRg"; */
+"yYJ-DQ-fRg.text" = "ファイル大きさ：";

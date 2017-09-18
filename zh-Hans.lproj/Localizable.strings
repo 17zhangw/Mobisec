@@ -1,0 +1,104 @@
+/* 
+  Localizable.strings
+  Mobisec
+
+  Created by williamzhang on 7/21/15.
+  Copyright (c) 2015 williamzhang. All rights reserved.
+*/
+
+
+/*
+ Localizable.strings
+ Mobisec
+ 
+ Created by williamzhang on 7/21/15.
+ Copyright (c) 2015 williamzhang. All rights reserved.
+ */
+
+"FOLDER" = "目录";
+"FILE" = "文件";
+"NEXT" = "下一页";
+"PREVIOUS" = "上一页";
+
+"TO" = " - ";
+"CANCEL" = "取消";
+"ENTER" = "进入";
+"PAGE_SELECTION" = "页面选择";
+
+"ROOT" = "顶级目录";
+"MOVE_ONLINE" = "移动到在线模式";
+
+"UPLOADING" = "上传中...";
+"INCOMPLETE_UPLOAD" = "有未完成的上传. 要不要完成?";
+"DELETE" = "删除";
+"UPLOAD" = "上载";
+
+"BAD_LOCATION" = "目录不好";
+"BAD_LOC_REASON" = "选择一个文件夹. 顶级目录以外";
+"CLOSE" = "关闭";
+
+"NAME_SET" = "名字";
+"ENTER_NAME" = "输入文件名称";
+
+"PROCESSING" = "处理中...";
+"UPLOAD_FAIL" = "上传失败";
+"UPLOAD_SUCCEED" = "上传成功";
+"NOT" = "不";
+"UPLOAD_WARNING" = "不要从互联网上断开和不要关闭应用程序";
+
+"RELOAD" = "重装";
+
+"UPLOAD_CUT" = "上传中断";
+"UPLOAD_CUT_REASON" = "上传被中断. 请认证后刷新.";
+
+"YES" = "是";
+"NO" = "不";
+
+"UNFINISHED_UPLOAD" = "以前上传未完成. 你现在要完成它? 你可以按（+）来手动完成它";
+
+"BOOKMARK" = "书签";
+
+"RETRIEVING_LIST" = "取名单中...";
+
+"REFRESH" = "刷新";
+"RETRIEVE_FAIL" = "刷新失败";
+
+"DOWNLOADING" = "下载中...";
+"DELETE_BOOKMARK" = "删除书签";
+
+"INFO" = "信息";
+
+"LOGIN" = "认证";
+"LOGINING" = "认证中...";
+"REGISTER" = "登记";
+"REGISTERING" = "登记中";
+"FAIL" = "失败";
+"FAIL_REASON" = "提供的信息是不正确";
+"NO_DATABASE" = "数据库不存在";
+"INCORRECT" = "不正确";
+"INCORRECT_KEY" = "输入的密钥不正确";
+
+"LOCK" = "锁定了";
+"LOCK_REASON" = "帐户被锁定.";
+"UPLOAD_FAILED" = "在上传时遇到错误. 应用程序现在将刷新自己. 刷新后按（+）再试.";
+"ERROR_HAPPENED" = "错误发生";
+
+"NUM_BOOKS" = "项目";
+"NUM_PAGES" = "页数";
+
+"UPDATE" = "更新";
+"DOWNLOAD" = "下载";
+"FAVORITE" = "书签";
+"UNFAVORITE" = "从书签删除";
+
+"LOADING" = "搜索中...";
+"NO_ACCESS" = "禁止访问";
+"NO_ACCESS_REASON" = "无法访问图片. 请允许在隐私设置访问权限.";
+
+"ERROR" = "错误";
+"CHOOSE_ALBUM" = "选择相册";
+"CHOOSE_PICTURE" = "选择照片";
+
+"LIMIT" = " 图片的最大数量";
+"LIMIT_PICK" = " 已达到限制.";
+"AT_TIME" = "在这一刻 ";

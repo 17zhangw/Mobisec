@@ -1,0 +1,51 @@
+
+/* Class = "UINavigationItem"; title = "ルート"; ObjectID = "5O1-Ul-K31"; */
+"5O1-Ul-K31.title" = "ルート";
+
+/* Class = "UITableViewSection"; headerTitle = "Notes"; ObjectID = "6TU-QG-mXa"; */
+"6TU-QG-mXa.headerTitle" = "Notes";
+
+/* Class = "UILabel"; text = "Modify Date:"; ObjectID = "9O4-QK-bgi"; */
+"9O4-QK-bgi.text" = "Modify Date:";
+
+/* Class = "UIButton"; normalTitle = "再登録"; ObjectID = "CPU-mP-Vhb"; */
+"CPU-mP-Vhb.normalTitle" = "再登録";
+
+/* Class = "UITableViewSection"; headerTitle = "Miscellaneous"; ObjectID = "G1F-Yb-7jd"; */
+"G1F-Yb-7jd.headerTitle" = "Miscellaneous";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "HBq-qh-K59"; */
+"HBq-qh-K59.normalTitle" = "Update";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "Hw1-jR-lKx"; */
+"Hw1-jR-lKx.normalTitle" = "Remove";
+
+/* Class = "UILabel"; text = "ユーザー名:"; ObjectID = "NeG-2S-4hT"; */
+"NeG-2S-4hT.text" = "ユーザー名:";
+
+/* Class = "UITextField"; placeholder = "Ex: https://rep.mobisec.biz/dms"; ObjectID = "TVN-Z5-gVk"; */
+"TVN-Z5-gVk.placeholder" = "Ex: https://rep.mobisec.biz/dms";
+
+/* Class = "UILabel"; text = "IPアドレスの入力:"; ObjectID = "Vll-xJ-04V"; */
+"Vll-xJ-04V.text" = "IPアドレスの入力:";
+
+/* Class = "UILabel"; text = "パスワード:"; ObjectID = "WU3-aU-2EI"; */
+"WU3-aU-2EI.text" = "パスワード:";
+
+/* Class = "UITableViewSection"; headerTitle = "Actions"; ObjectID = "aRl-Tc-PMW"; */
+"aRl-Tc-PMW.headerTitle" = "Actions";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "eTp-Fg-SLN"; */
+"eTp-Fg-SLN.normalTitle" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "hVi-Yd-XE6"; */
+"hVi-Yd-XE6.normalTitle" = "Favorite";
+
+/* Class = "UILabel"; text = "Creation Date:"; ObjectID = "lSc-zV-3pW"; */
+"lSc-zV-3pW.text" = "Creation Date:";
+
+/* Class = "UILabel"; text = "会社トーケン:"; ObjectID = "rk3-dX-ODO"; */
+"rk3-dX-ODO.text" = "会社トーケン:";
+
+/* Class = "UILabel"; text = "File Extension:"; ObjectID = "x3f-IF-3cm"; */
+"x3f-IF-3cm.text" = "File Extension:";

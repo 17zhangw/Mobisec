@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "閉じる"; ObjectID = "040-oU-hPs"; */
+"040-oU-hPs.normalTitle" = "关闭";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "28c-dw-fZN"; */
+"28c-dw-fZN.normalTitle" = "登记";
+
+/* Class = "UILabel"; text = "会社のトーケン:"; ObjectID = "F7c-UC-2JE"; */
+"F7c-UC-2JE.text" = "公司令牌:";
+
+/* Class = "UILabel"; text = "iPadの説明:"; ObjectID = "TKw-7L-MSA"; */
+"TKw-7L-MSA.text" = "设备说明:";
+
+/* Class = "UITextField"; placeholder = "https://rep.mobisec.biz/dms"; ObjectID = "YUb-oR-o73"; */
+"YUb-oR-o73.placeholder" = "https://rep.mobisec.biz/dms";
+
+/* Class = "UILabel"; text = "パスワードの入力:"; ObjectID = "i54-gb-5qs"; */
+"i54-gb-5qs.text" = "密码:";
+
+/* Class = "UILabel"; text = "ユーザ名の入力:"; ObjectID = "pcW-4W-eTl"; */
+"pcW-4W-eTl.text" = "用户名:";
+
+/* Class = "UILabel"; text = "iPadに名前をつけ:"; ObjectID = "uuf-Dg-8da"; */
+"uuf-Dg-8da.text" = "设备名称:";
+
+/* Class = "UILabel"; text = "IPアドレスの入力:"; ObjectID = "z6D-mq-dfb"; */
+"z6D-mq-dfb.text" = "IP地址:";
